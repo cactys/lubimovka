@@ -1,7 +1,6 @@
-.footer__logo {
+.footer__mosbrew {
   display: block;
-  width: 93px;
-  height: 80px;
+  width: 88px;
   object-fit: cover;
   object-position: center;
 }

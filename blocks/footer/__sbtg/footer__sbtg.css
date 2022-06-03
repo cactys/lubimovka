@@ -1,7 +1,6 @@
-.footer__logo {
+.footer__sbtg {
   display: block;
-  width: 93px;
-  height: 80px;
+  width: 68px;
   object-fit: cover;
   object-position: center;
 }

@@ -1,7 +1,6 @@
-.footer__logo {
+.footer__to-talk {
   display: block;
-  width: 93px;
-  height: 80px;
+  width: 97px;
   object-fit: cover;
   object-position: center;
 }

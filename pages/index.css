@@ -7,7 +7,10 @@
 @import url(../blocks/content/content.css);
 
 @import url(../blocks/footer/footer.css);
-@import url(../blocks/footer/__containers/footer__containers.css);
-@import url(../blocks/footer/__container/footer__container.css);
+@import url(../blocks/footer/__header/footer__header.css);
 @import url(../blocks/footer/__logo/footer__logo.css);
-@import url(../blocks/footer/__general-portners/footer__general-portners.css);
+@import url(../blocks/footer/__nav-title/footer__nav-title.css);
+@import url(../blocks/footer/__nav/footer__nav.css);
+@import url(../blocks/footer/__fond-mp/footer__fond-mp.css);
+@import url(../blocks/footer/__mosbrew/footer__mosbrew.css);
+@import url(../blocks/footer/__sbtg/footer__sbtg.css);

@@ -1,8 +1,10 @@
-.footer__general-portners {
+.footer__nav-title {
   font-style: normal;
   font-weight: 300;
   font-size: 14px;
   line-height: 17px;
   max-width: 145px;
-  margin: 48px 0 0 calc(82px / 2);
+  max-height: 34px;
+  overflow: hidden;
+  margin: 6px 0px 0px 82px;
 }
