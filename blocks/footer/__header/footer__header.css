@@ -1,5 +1,5 @@
-.footer__containers {
-  margin: 0;
+.footer__header {
+  margin: 42px 0 22px 32px;
   padding: 0;
   list-style: none;
   display: flex;
