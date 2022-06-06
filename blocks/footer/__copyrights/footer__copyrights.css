@@ -1,0 +1,5 @@
+.footer__copyrights {
+  margin: 0 calc(369px - 207px) 0 207px;
+  display: flex;
+  gap: 32px;
+}

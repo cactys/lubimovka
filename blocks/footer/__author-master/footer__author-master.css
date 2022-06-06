@@ -1,0 +1,4 @@
+.footer__author-master {
+  display: flex;
+  flex-direction: column;
+}
