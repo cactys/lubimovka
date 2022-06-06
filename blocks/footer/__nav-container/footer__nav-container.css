@@ -1,3 +1,6 @@
 .footer__nav-container {
   display: flex;
+  justify-content: space-between;
+  max-width: 545px;
+  width: 100%;
 }

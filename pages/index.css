@@ -19,3 +19,10 @@
 @import url(../blocks/footer/__location-title/footer__location-title.css);
 @import url(../blocks/footer/__location-address/footer__location-address.css);
 @import url(../blocks/footer/__nav-container/footer__nav-container.css);
+@import url(../blocks/footer/__menu-title/footer__menu-title.css);
+@import url(../blocks/footer/__menu-items/footer__menu-items.css);
+@import url(../blocks/footer/__link/footer__link.css);
+@import url(../blocks/footer/__about-title/footer__about-title.css);
+@import url(../blocks/footer/__about-items/footer__about-items.css);
+@import url(../blocks/footer/__all-projects-title/footer__all-projects-title.css);
+@import url(../blocks/footer/__all-project-items/footer__all-project-items.css);
