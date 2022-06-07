@@ -26,3 +26,11 @@
 @import url(../blocks/footer/__about-items/footer__about-items.css);
 @import url(../blocks/footer/__all-projects-title/footer__all-projects-title.css);
 @import url(../blocks/footer/__all-project-items/footer__all-project-items.css);
+@import url(../blocks/footer/__bottom/footer__bottom.css);
+@import url(../blocks/footer/__copyrights/footer__copyrights.css);
+@import url(../blocks/footer/__copyright/footer__copyright.css);
+@import url(../blocks/footer/__privacy/footer__privacy.css);
+@import url(../blocks/footer/__authors/footer__authors.css);
+@import url(../blocks/footer/__author-logo/footer__author-logo.css);
+@import url(../blocks/footer/__author-design/footer__author-design.css);
+@import url(../blocks/footer/__author-master/footer__author-master.css);

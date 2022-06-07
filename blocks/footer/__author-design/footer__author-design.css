@@ -1,0 +1,10 @@
+.footer__author-design {
+  display: inline-flex;
+  flex-direction: column;
+  box-sizing: border-box;
+  margin: 0 40px 0 0;
+  /* padding-right: 40px; */
+  font-weight: 300;
+  font-size: 14px;
+  line-height: 1.21;
+}
