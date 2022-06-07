@@ -1,4 +1,8 @@
 .footer__author-master {
-  display: flex;
+  display: inline-flex;
   flex-direction: column;
+  margin: 0;
+  font-weight: 300;
+  font-size: 14px;
+  line-height: 1.21;
 }
